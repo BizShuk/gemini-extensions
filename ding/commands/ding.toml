@@ -1,0 +1,7 @@
+description = "Play short System Sound"
+prompt = """
+
+Play a system sound to
+Just execute command below
+!{afplay /System/Library/Sounds/Glass.aiff}
+"""
