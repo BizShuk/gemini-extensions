@@ -1,0 +1,6 @@
+description = "Research, analyze, and create implementation plans"
+prompt = """
+
+@{../GEMINI.md}
+
+"""
